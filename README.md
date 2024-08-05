@@ -2,8 +2,8 @@
 
 To deepen my understanding of foundational data management and analysis, I embarked on a project to clean and analyze a dataset using SQL. I selected the "Ahmedabad Flat Price Dataset (Uncleaned)" from Kaggle, which presented a range of data quality challenges. This dataset includes various columns related to property listings:
 
-Title: The headline or title of the property listing.
-type_area: The type of area measurement (e.g., Built-up, Carpet).
+* Title: The headline or title of the property listing.
+* type_area: The type of area measurement (e.g., Built-up, Carpet).
 value_area: The numerical value of the area of the flat.
 status: The status of the property (e.g., Ready to Move, Under Construction).
 floor: The floor number or description (e.g., Ground Floor, 5th Floor).
