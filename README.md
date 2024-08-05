@@ -14,6 +14,10 @@ To deepen my understanding of foundational data management and analysis, I embar
 * price: The total listed price of the property.
 * price_sqft: The price per square foot.
 * description: Additional descriptive text provided in the listing.
+
+### This is Raw DataSet
+![Screenshot](https://github.com/HansikaPrabodini/IMAGES/blob/main/Screenshot%20(218).png)
+
   
 ### Data Cleaning and Transformation
 
@@ -61,5 +65,9 @@ Checked data against rules or constraints for accuracy.
 Conducted initial analyses to understand data structure and relationships.
 #### Documentation: 
 Recorded the cleaning process, including decisions and methods used.
+
+### This is the Final Cleaned Dataset
+![Screenshot](https://github.com/HansikaPrabodini/IMAGES/blob/main/Screenshot%20(219).png)
+
 
 In cleaning and analyzing this dataset, I employed a range of SQL functions, from simple to advanced. Each day presented new errors to correct and additional concepts to learn, which made the process both challenging and enjoyable. I find great satisfaction in uncovering and resolving issues, and this project has significantly enhanced my skills and knowledge in data management.
